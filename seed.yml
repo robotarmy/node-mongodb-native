@@ -1,4 +1,4 @@
 ---
   name: driving_mrs_mongo
   description: Node Mongo DB Native Driver
-  version: 0.0.1
+  version: 0.0.2
